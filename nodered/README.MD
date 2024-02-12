@@ -4,7 +4,8 @@ In this folder you will find an example flow that will open the profile menu and
 
 ## Modifications to Use This Flow
 1. Replace the button entities with ones that match your esphome device.
-2. Edit script delays and the delays within the function if required. These times work in my setup, but depening on your network you may need to increase them.
+2. Edit the "Find the mapping" function with the map you created from the sd card.
+3. Edit script delays and the delays within the function if required. These times work in my setup, but depening on your network you may need to increase them.
 
 ## Auto-Switching via Mister Remote Script
 If you are using [Wizzo's Remote Script](https://github.com/wizzomafizzo/mrext?tab=readme-ov-file#remote) and the [Last Played Script](https://github.com/wizzomafizzo/mrext?tab=readme-ov-file#lastplayed) you can use a homeassistant webhook to trigger an automation. An example, switching to a custom profile based on the core and/or game loaded.
