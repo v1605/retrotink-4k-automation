@@ -7,7 +7,7 @@ In this folder you will find an example flow that will open the profile menu and
 2. Edit script delays and the delays within the function if required. These times work in my setup, but depening on your network you may need to increase them.
 
 ## Auto-Switching via Mister Remote Script
-If you are using [Wizzo's Remote Script](https://github.com/wizzomafizzo/mrext?tab=readme-ov-file#remote) and the [Last Played Script](https://github.com/wizzomafizzo/mrext?tab=readme-ov-file#lastplayed). You can use a homeassistant webhook to trigger an automation, like switching to a custom profile based on the core and/or game loaded.
+If you are using [Wizzo's Remote Script](https://github.com/wizzomafizzo/mrext?tab=readme-ov-file#remote) and the [Last Played Script](https://github.com/wizzomafizzo/mrext?tab=readme-ov-file#lastplayed) you can use a homeassistant webhook to trigger an automation. An example, switching to a custom profile based on the core and/or game loaded.
 
 **Setup Node-Red**
 1. Create a "Webhook" node in a workflow.
