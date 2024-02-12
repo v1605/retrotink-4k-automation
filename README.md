@@ -1,4 +1,4 @@
-# retrotink-4k-automation
+# Retrotink 4k Automation Examples
 
 <img width="949" alt="exaple" src="https://github.com/v1605/retrotink-4k-automation/assets/55302877/0b77b89e-57a6-4474-906c-8b87c95264d3">
 
